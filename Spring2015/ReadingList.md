@@ -16,11 +16,18 @@ Required Readings:
 * Mankiw, Ch. 7 Unemployment
 * "[Does Raising The Minimum Wage Kill Jobs?](http://www.npr.org/blogs/money/2014/03/06/286861541/does-raising-the-minimum-wage-kill-jobs)." *Planet Money*, March 6, 2014.
 
+Suggested Readings:
+* [National Income Accounts](http://www.bea.gov/national/) at the Bureau of Economic Analysis
+* [Consumer Price Index](http://www.bls.gov/cpi/) at the Bureau of Labor Statistics
+* [Current Employment Statistics](http://www.bls.gov/ces/) at the Bureau of Labor Statistics
 
 ## Growth Theory
 
 Required Readings:
 * Mankiw, Ch. 8 Economic Growth I
+
+Recommended Readings:
+* "[The Solow Model 1 - Introduction](http://mruniversity.com/courses/development-economics/solow-model-1-%E2%80%93-introduction)" & ff. *MRUniversity*.
 
 
 ## Business Cycle Theory: The Economy in the Short Run
