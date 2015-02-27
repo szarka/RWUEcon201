@@ -6,6 +6,11 @@ Required Readings:
 * Mankiw, Ch. 1 The Science of Macroeconomics
 * Mankiw, Ch. 2 The Data of Macroeconomics
 
+Suggested Readings:
+* [National Income Accounts](http://www.bea.gov/national/) at the Bureau of Economic Analysis
+* [Consumer Price Index](http://www.bls.gov/cpi/) at the Bureau of Labor Statistics
+* [Current Employment Statistics](http://www.bls.gov/ces/) at the Bureau of Labor Statistics
+
 
 ## Classical Theory: The Economy in the Long Run
 
@@ -15,11 +20,6 @@ Required Readings:
 * Mankiw, Ch. 5 Inflation
 * Mankiw, Ch. 7 Unemployment
 * "[Does Raising The Minimum Wage Kill Jobs?](http://www.npr.org/blogs/money/2014/03/06/286861541/does-raising-the-minimum-wage-kill-jobs)." *Planet Money*, March 6, 2014.
-
-Suggested Readings:
-* [National Income Accounts](http://www.bea.gov/national/) at the Bureau of Economic Analysis
-* [Consumer Price Index](http://www.bls.gov/cpi/) at the Bureau of Labor Statistics
-* [Current Employment Statistics](http://www.bls.gov/ces/) at the Bureau of Labor Statistics
 
 ## Growth Theory
 
